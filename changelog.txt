@@ -1,0 +1,12 @@
+2016/02/27 - Initial release
+2016/02/28 - Fixed a bug where team shown is based on a center skill that none of the account's cards have
+2016/03/02 - Fixed a bug caused when a UR is selected to be the center but gets replaced due to better SR+ cards
+2016/03/04 - Added Team Types option; added 'Recommended guest center' for Scorer teams
+2016/03/08 - Added 2 more team types (Plock max-score, Healer max-score); explanations in About tab
+2016/03/27 - Missing card data error messages; ability to view raw data in Team Stats and All Stats tabs
+2016/04/14 - Added attribute average song selections; duplicate account name error messages
+2016/05/10 - Minor optimization, replaced loops with vectorized operations
+2016/07/17 - Added support for SSR rarity cards
+2016/07/19 - Overhauled Scorer team center choice logic; all previous scorer team center bugs fixed
+2016/08/25 - Added MASTER songs
+2016/08/26 - Added 10% matching song unit bonus for 4.0 JP accounts; UI changes
